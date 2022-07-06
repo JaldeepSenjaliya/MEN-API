@@ -1,0 +1,13 @@
+GET
+POST
+PATCH
+DELETE
+
+Links: 
+GET: http://localhost:3000/aliens
+GET: http://localhost:3000/aliens/<id>
+POST: http://localhost:3000/aliens
+PATCH: http://localhost:3000/aliens/<id>
+DELETE: http://localhost:3000/aliens/<id>
+
+BTHW6962-01
